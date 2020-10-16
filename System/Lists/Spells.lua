@@ -2996,6 +2996,8 @@ br.lists.spells = {
                 summonDarkglare             = 205180,
                 unstableAffliction          = 30108,
                 vileTaint                   = 278350,
+		maleficRapture1             = 316107,
+                maleficRapture2             = 324536,
             },
             artifacts                       = {
                 compoundingHorror           = 199282,
